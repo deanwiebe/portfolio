@@ -206,7 +206,7 @@ a:hover {
   flex-wrap: wrap;         /* Allow items to wrap on small screens */
   gap: 10px;               /* Adds spacing between items */
   justify-content: space-between;
-  align-items: center;
+  // align-items: center;
   width: 100%;
   box-sizing: border-box;
   color: var(--text-light);
@@ -216,8 +216,8 @@ a:hover {
 }
 
 .project-meta p {
-  margin: 0;
-  flex: 1 1 auto;          /* Allow flexible sizing */
+  // margin: 0;
+  // flex: 1 1 auto;          /* Allow flexible sizing */
   min-width: 120px;        /* Prevent overflow on small screens */
 }
 
